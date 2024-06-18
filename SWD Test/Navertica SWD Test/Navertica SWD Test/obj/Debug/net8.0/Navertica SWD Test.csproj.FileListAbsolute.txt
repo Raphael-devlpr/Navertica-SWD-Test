@@ -1,0 +1,14 @@
+C:\Users\rapha\Desktop\ASP.NET\SWD Test\Navertica SWD Test\Navertica SWD Test\bin\Debug\net8.0\Navertica SWD Test.exe
+C:\Users\rapha\Desktop\ASP.NET\SWD Test\Navertica SWD Test\Navertica SWD Test\bin\Debug\net8.0\Navertica SWD Test.deps.json
+C:\Users\rapha\Desktop\ASP.NET\SWD Test\Navertica SWD Test\Navertica SWD Test\bin\Debug\net8.0\Navertica SWD Test.runtimeconfig.json
+C:\Users\rapha\Desktop\ASP.NET\SWD Test\Navertica SWD Test\Navertica SWD Test\bin\Debug\net8.0\Navertica SWD Test.dll
+C:\Users\rapha\Desktop\ASP.NET\SWD Test\Navertica SWD Test\Navertica SWD Test\bin\Debug\net8.0\Navertica SWD Test.pdb
+C:\Users\rapha\Desktop\ASP.NET\SWD Test\Navertica SWD Test\Navertica SWD Test\obj\Debug\net8.0\Navertica SWD Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Desktop\ASP.NET\SWD Test\Navertica SWD Test\Navertica SWD Test\obj\Debug\net8.0\Navertica SWD Test.AssemblyInfoInputs.cache
+C:\Users\rapha\Desktop\ASP.NET\SWD Test\Navertica SWD Test\Navertica SWD Test\obj\Debug\net8.0\Navertica SWD Test.AssemblyInfo.cs
+C:\Users\rapha\Desktop\ASP.NET\SWD Test\Navertica SWD Test\Navertica SWD Test\obj\Debug\net8.0\Navertica SWD Test.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Desktop\ASP.NET\SWD Test\Navertica SWD Test\Navertica SWD Test\obj\Debug\net8.0\Navertica SWD Test.dll
+C:\Users\rapha\Desktop\ASP.NET\SWD Test\Navertica SWD Test\Navertica SWD Test\obj\Debug\net8.0\refint\Navertica SWD Test.dll
+C:\Users\rapha\Desktop\ASP.NET\SWD Test\Navertica SWD Test\Navertica SWD Test\obj\Debug\net8.0\Navertica SWD Test.pdb
+C:\Users\rapha\Desktop\ASP.NET\SWD Test\Navertica SWD Test\Navertica SWD Test\obj\Debug\net8.0\Navertica SWD Test.genruntimeconfig.cache
+C:\Users\rapha\Desktop\ASP.NET\SWD Test\Navertica SWD Test\Navertica SWD Test\obj\Debug\net8.0\ref\Navertica SWD Test.dll
